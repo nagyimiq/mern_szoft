@@ -2,3 +2,4 @@ git clone
 git add git_pelda.txt
 git commit 
 git push
+git pull
